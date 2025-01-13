@@ -2,10 +2,9 @@
 
 This document tracks the audits performed on our smart contracts, including the audit company, their social links, the date of the audit, and links to the respective audit reports on GitHub.
 
-| **Audit Company** | **Social Link**                 | **Date**                                  | **Audit Report**                                                              |
-| ----------------- | ------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --- |
-| FYEO #1           | [Twitter](https://x.com/goFYEO) | October 7, 2024                           | [Audit Report](https://github.com/yourrepo/audits/blob/main/FYEO-1-audit.pdf) |
-| <!--              | Cyfrin Codehawks                | [Official Website](https://www.cyfrin.io) | Planned for 2025                                                              | [Audit Report](https://github.com/yourrepo/audits/blob/main/Cyfrin-audit.md) | --> |
+| **Audit Company** | **Social Link**                 | **Date**        | **Audit Report**                                                              |
+| ----------------- | ------------------------------- | --------------- | ----------------------------------------------------------------------------- |
+| FYEO #1           | [Twitter](https://x.com/goFYEO) | October 7, 2024 | [Audit Report](https://github.com/yourrepo/audits/blob/main/FYEO-1-audit.pdf) |
 
 ## Overview
 
