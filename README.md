@@ -4,7 +4,7 @@ This document tracks the audits performed on our smart contracts, including the 
 
 | **Audit Company** | **Social Link**                 | **Date**        | **Audit Report**                                                              |
 | ----------------- | ------------------------------- | --------------- | ----------------------------------------------------------------------------- |
-| FYEO #1           | [Twitter](https://x.com/goFYEO) | October 7, 2024 | [Audit Report](https://github.com/yourrepo/audits/blob/main/FYEO-1-audit.pdf) |
+| FYEO #1           | [Twitter](https://x.com/goFYEO) | October 7, 2024 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/FYEO-1-audit.pdf) |
 
 ## Overview
 
