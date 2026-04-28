@@ -11,6 +11,7 @@ This document tracks the audits performed on our smart contracts, including the 
 | Pashov #4 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | August 2025   | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-08-Pashov-CORE.pdf)                     |
 | Pashov #5 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | November 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-CORE.pdf)                     |
 | Pashov #6 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | December 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-12-Pashov-CORE.pdf)                     |
+| Pashov #7 (PSM) | [Twitter](https://x.com/PashovAuditGroup) | December 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2026-03-Pashov-PSM.pdf)                     |
 
 ## Overview
 
