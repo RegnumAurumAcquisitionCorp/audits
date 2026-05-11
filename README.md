@@ -5,13 +5,13 @@ This document tracks the audits performed on our smart contracts, including the 
 | **Audit Company** | **Social Link**                   | **Date**          | **Audit Report**                                                                                                           |
 | ----------------- | --------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | FYEO #1           | [Twitter](https://x.com/goFYEO)   | October 7, 2024   | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/FYEO-1-audit.pdf)                            |
-| Pashov #1 (RWf(x) V1) | [Twitter](https://x.com/PashovAuditGroup) | August 2025    | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-08-Pashov-RWf(x)-V1-public.pdf)         |
-| Pashov #2 (RWf(x) V2) | [Twitter](https://x.com/PashovAuditGroup) | November 2025  | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-RWf(x)-v2-public.pdf)         |
-| Pashov #3 (RWf(x) V3) | [Twitter](https://x.com/PashovAuditGroup) | November 2025  | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-RWf(x)-v3-public.pdf)         |
+| Pashov #1 (RWf(x)) | [Twitter](https://x.com/PashovAuditGroup) | August 2025    | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-08-Pashov-RWf(x)-V1-public.pdf)         |
+| Pashov #2 (RWf(x)) | [Twitter](https://x.com/PashovAuditGroup) | November 2025  | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-RWf(x)-v2-public.pdf)         |
+| Pashov #3 (RWf(x)) | [Twitter](https://x.com/PashovAuditGroup) | November 2025  | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-RWf(x)-v3-public.pdf)         |
 | Pashov #4 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | August 2025   | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-08-Pashov-CORE.pdf)                     |
 | Pashov #5 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | November 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-11-Pashov-CORE.pdf)                     |
 | Pashov #6 (CORE - iREET & Lending) | [Twitter](https://x.com/PashovAuditGroup) | December 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2025-12-Pashov-CORE.pdf)                     |
-| Pashov #7 (PSM) | [Twitter](https://x.com/PashovAuditGroup) | December 2025 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2026-03-Pashov-PSM.pdf)                     |
+| Pashov #7 (PSM) | [Twitter](https://x.com/PashovAuditGroup) | March 2026 | [Audit Report](https://github.com/RegnumAurumAcquisitionCorp/audits/blob/main/2026-03-Pashov-PSM.pdf)                     |
 
 ## Overview
 
